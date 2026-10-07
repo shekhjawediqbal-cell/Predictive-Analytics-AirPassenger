@@ -189,6 +189,32 @@ Predictive-Analytics-AirPassenger/
 
 ---
 
+## 📊 Project Visualizations
+
+### Historical Passenger Trend
+
+![Historical Passenger Trend](images/historical_trend.png)
+
+### Yearly Passenger Pattern
+
+![Yearly Seasonality](images/yearly_seasonality.png)
+
+### Average Passengers by Month
+
+![Monthly Average Passengers](images/monthly_average.png)
+
+### Actual vs Predicted
+
+![Actual vs Predicted](images/actual_vs_predicted.png)
+
+### 1961 Future Forecast
+
+![Future Forecast for 1961](images/future_forecast_1961.png)
+
+### Prophet Trend and Seasonality Components
+
+![Prophet Components](images/prophet_components.png)
+
 ## ✅ Conclusion
 
 The project demonstrates how historical time-series data can be used for predictive analytics and future forecasting.
